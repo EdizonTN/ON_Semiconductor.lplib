@@ -1,0 +1,10 @@
+(librepcb_component_category 90c2172c-8b91-4c19-92c5-e1d9298aabda
+ (name "Unipolar, N-JFET")
+ (description "")
+ (keywords "")
+ (author "EdizonTN")
+ (version "0.1")
+ (created 2019-09-24T22:34:34Z)
+ (deprecated false)
+ (parent e9663545-80dd-4658-9357-d4ef62e55168)
+)

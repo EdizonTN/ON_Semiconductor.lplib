@@ -1,0 +1,10 @@
+(librepcb_library 108e01b7-c6d5-48d1-9686-e0768f683cf2
+ (name "ON Semiconductor")
+ (description "This is an unofficial testing LibrePCB library. ON Semiconductor with order code of TME.EU or/and Farnell.")
+ (keywords "")
+ (author "EdizonTN")
+ (version "0.1")
+ (created 2019-09-24T22:15:36Z)
+ (deprecated false)
+ (url "https://github.com/LibrePCB-Libraries/ON_Semiconductor.lplib")
+)
