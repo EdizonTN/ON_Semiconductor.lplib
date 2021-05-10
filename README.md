@@ -12,7 +12,7 @@ see [wiki](../../wiki/)
 
 
 ## LibrePCB "URL to ZIP file"
-https://github.com/EdizonTN/ON_Semiconductor.lplib/archive/master.zip
+https://github.com/EdizonTN/ON_Semiconductor.lplib/archive/refs/heads/master.zip
 
 
 ## License
